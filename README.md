@@ -76,15 +76,25 @@ https://youtu.be/HvJeXakc8Kc?si=AHeF4uTbCcpt43XE
 TABLE:
 
 Edited Name => Original Name
+
 fiberCoupler.py => fiberCoupler.py
+
 motorControl.py => motorControl2.py
+
 photodetectorTest.py => PhotodiodeTest.py
+
 randomScramble.py => RandomScramble.py
+
 clientCode.py => clientCode2.py
+
 fiberCouplerRemote.py => fiberCouplerRemote.py
+
 motorControlRemote.py => motorControl3.py
+
 serverCode.py => serverCode3.py (on the downstairs Pi)
+
 newport.py => newport.py
+
 servoFiberCoupler.py => FiberCoupler1.py
 
 
